@@ -32,4 +32,9 @@ Week # | Sections | Exercises | Meeting
 
 I'd like to imagine that this club goes on to read other computer science/software development related books but I'd be okay if that remains but a fragment of my reverie.
 
+## Exercises
+
+We will be doing the exercises in [http://racket-lang.org/](Racket), a scheme. This is not a heavily researched decision so please suggest alternatives if you believe there are better alternatives. Racket has its own IDE, Dr. Racket.
+
+
 
