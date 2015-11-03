@@ -25,7 +25,7 @@ Meeting times will vary. Check [the facebook group](https://www.facebook.com/gro
 ## Calendar
 
 Week # | Sections | Exercises | Meeting
--             | -              | -                | -
+---------- | ----------- | ------------ | -----------
 1            | 1.1.6       | 1.5           | [Party at Orcutt's](https://www.facebook.com/groups/466276546890313/permalink/466278320223469/) 
 
 ## Exercises
