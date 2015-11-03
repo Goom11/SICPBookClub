@@ -30,7 +30,7 @@ Week # | Sections | Exercises | Meeting
 
 ## Exercises
 
-We will be doing the exercises in [http://racket-lang.org/](Racket), a scheme. This is not a heavily researched decision so please suggest alternatives if you believe there are better alternatives. Racket has its own IDE, Dr. Racket.
+We will be doing the exercises in [Racket](http://racket-lang.org/), a scheme. This is not a heavily researched decision so please suggest alternatives if you believe there are better alternatives. Racket has its own IDE, Dr. Racket.
 
 ## Future
 
