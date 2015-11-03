@@ -20,7 +20,7 @@ Aman Agarwal. I will help with some of the logistical concerns with this book cl
 
 ### Course Meeting Times
 
-Meeting times will vary. Check [the facebook group](https://www.facebook.com/groups/466276546890313/466278320223469/) for exact specifics. We will likely meet once a week.
+Meeting times will vary. Check [the facebook group](https://www.facebook.com/groups/466276546890313/466278320223469/) for specifics. We will likely meet once a week.
 
 ## Calendar
 
