@@ -1,8 +1,12 @@
 # SICP Book Club
 
-### Who am I?
+### Who are We?
 
-Aman Agarwal. I will help with some of the logistical concerns with this book club along with directly participating.
+A group of people looking to expand our knowledge of computer programs by reading, discussing, and going through the problems in the book, Structure and Interpretation of Computer Programs. 
+
+### Logistics
+
+Aman Agarwal, Chris Orcutt, and friends will help with some of the logistical concerns with the book club along with directly participating.
 
 ### Description
 
@@ -20,13 +24,16 @@ Aman Agarwal. I will help with some of the logistical concerns with this book cl
 
 ### Course Meeting Times
 
-Meeting times will vary. Check [the facebook group](https://www.facebook.com/groups/466276546890313/466278320223469/) for specifics. We will likely meet once a week.
+We meet every Friday at 7pm sharp at the UCLA Housing Cooperative located at 500 Landfair.
+
+Please join [the facebook group](https://www.facebook.com/groups/466276546890313/466278320223469/) for updates concerning meeting times/location and logistics.
 
 ## Calendar
 
-Week # | Sections | Exercises | Meeting
+Week #     | Reading     | Exercises    | Meeting
 ---------- | ----------- | ------------ | -----------
-1            | 1.1.6       | 1.5           | [Party at Orcutt's](https://www.facebook.com/groups/466276546890313/permalink/466278320223469/) 
+1          | 1.1.6       | 1.5          | [Party at Orcutt's](https://www.facebook.com/groups/466276546890313/permalink/466278320223469/) 
+2          | 2.1         | 1.9 - 1.28   | [Party at Orcutt's](https://www.facebook.com/events/100927973606886/)
 
 ## Exercises
 
