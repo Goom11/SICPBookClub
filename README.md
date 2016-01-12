@@ -34,6 +34,7 @@ Week #     | Reading     | Exercises    | Meeting
 ---------- | ----------- | ------------ | -----------
 1          | 1.1.6       | 1.5          | [Party at Orcutt's](https://www.facebook.com/groups/466276546890313/permalink/466278320223469/) 
 2          | 2.1         | 1.9 - 1.28   | [Party at Orcutt's](https://www.facebook.com/events/100927973606886/)
+3          | 2.2.1       | 2.1 - 2.23   | TBD
 
 ## Exercises
 
